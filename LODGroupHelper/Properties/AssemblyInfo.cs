@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModNameGoesHere")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("LODGroupHelper")]
+[assembly: AssemblyDescription("A mod for NeosVR. Adds several buttons to the inspector of the LOD Group component to make it easier to set up. ")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModNameGoesHere")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyProduct("LODGroupHelper")]
+[assembly: AssemblyCopyright("Copyright © esnya 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
